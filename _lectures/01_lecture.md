@@ -7,5 +7,5 @@ links:
     - url: https://cs.gmu.edu
       name: slides
 ---
-**Suggested Readings:**
+**Readings:**
 - [Technical Tools](http://cs.brown.edu/people/seny/2950-v/intro.pdf)
