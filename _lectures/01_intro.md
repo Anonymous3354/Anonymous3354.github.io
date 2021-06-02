@@ -8,4 +8,4 @@ links:
       name: slides
 ---
 **Suggested Readings:**
-- [Technical Tools](http://example.com)
+- [Technical Tools](http://cs.brown.edu/people/seny/2950-v/intro.pdf)
