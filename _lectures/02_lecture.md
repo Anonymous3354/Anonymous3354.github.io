@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2021-08-23T8:00:00+4:30
+date: 2021-08-30T8:00:00+4:30
 title: Technical Background + First Encrypted Search
 thumbnail: /static_files/presentations/lec.jpg
 
