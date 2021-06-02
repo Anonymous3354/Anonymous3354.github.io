@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2021-10-18T8:00:00+4:30
+date: 2021-10-25T8:00:00+4:30
 title: Leakage Attacks on Expressive Queries
 thumbnail: /static_files/presentations/lec.jpg
 
