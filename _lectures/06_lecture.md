@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2021-10-04T8:00:00+4:30
-title: First Leakage-Abuse Attacks
+title: First Leakage Attacks
 thumbnail: /static_files/presentations/lec.jpg
 
 ---
