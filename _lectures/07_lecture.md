@@ -6,5 +6,5 @@ thumbnail: /static_files/presentations/lec.jpg
 
 ---
 **Readings:**
-- [All Your Queries Are Belong to Us: The Power of File-Injection Attacks on Searchable Encryption [USENIX Sec’20]](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_zhang.pdf)
+- [All Your Queries Are Belong to Us: The Power of File-Injection Attacks on Searchable Encryption [USENIX Sec’16]](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_zhang.pdf)
 - [Sophos - Forward Secure Searchable Encryption [CCS’16] ](https://eprint.iacr.org/2016/728)
