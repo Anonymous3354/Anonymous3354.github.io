@@ -5,5 +5,5 @@ title: Technical Background + First Encrypted Search
 thumbnail: /static_files/presentations/lec.jpg
 
 ---
-**Suggested Readings:**
+**Readings:**
 - [Practical Techniques for Searches on Encrypted Data [S&P’00]](https://people.eecs.berkeley.edu/~dawnsong/papers/se.pdf)
