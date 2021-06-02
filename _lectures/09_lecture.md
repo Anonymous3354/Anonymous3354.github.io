@@ -6,5 +6,5 @@ thumbnail: /static_files/presentations/lec.jpg
 
 ---
 **Readings:**
-- [CryptDB: Protecting Confidentiality with Encrypted Query Processing [SOSP’11]](http://people.csail.mit.edu/nickolai/papers/raluca-cryptdb.pdf)
-- [Inference Attacks on Property-Preserving Encrypted Databases [CCS’15]](https://cs.brown.edu/people/seny/pubs/edb.pdf)
+- [Generic Attacks on Secure Outsourced Databases [CCS’16]](https://robobees.seas.harvard.edu/files/privacytools/files/generic.pdf)
+- [Pump up the Volume: Practical Database Reconstruction from Volume Leakage on Range Queries [CCS’18]](https://eprint.iacr.org/2018/965.pdf)
