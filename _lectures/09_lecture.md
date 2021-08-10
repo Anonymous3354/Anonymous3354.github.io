@@ -6,5 +6,4 @@ thumbnail: /static_files/presentations/lec.jpg
 
 ---
 **Readings:**
-- [Generic Attacks on Secure Outsourced Databases [CCS’16]](https://robobees.seas.harvard.edu/files/privacytools/files/generic.pdf)
-- [Pump up the Volume: Practical Database Reconstruction from Volume Leakage on Range Queries [CCS’18]](https://eprint.iacr.org/2018/965.pdf)
+- [Lecture Notes 1, Sections 2.6-3.2](http://cs.gmu.edu/~evgenios/teaching/cs600/automata.pdf)
