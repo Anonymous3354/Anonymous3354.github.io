@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2021-10-12T8:00:00+4:30
-title: Designs with Property-Preserving Encryption
+title: Co-NP, decision vs. search, Space Complexity
 thumbnail: /static_files/presentations/lec.jpg
 
 ---
