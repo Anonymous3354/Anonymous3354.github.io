@@ -1,7 +1,7 @@
 ---
 type: assignment
-date: 2021-11-16Tx:xx:xx+7:30
-title: Homework #5
+date: 2021-11-16T8:23:00+4:30
+title: Homework 5
 
 # optional 
 pdf: http://cs.gmu.edu/~evgenios/teaching/cs600/hw/hw5.pdf
@@ -12,6 +12,6 @@ hide_from_announcments: false
 
 due_event: 
     type: due
-    date: 2021-11-30Tx:xx:xx+12:00
-    description: 'Homework #5 due'
+    date: 2021-11-30T8:23:00+4:30
+    description: 'Homework 5 due'
 ---
