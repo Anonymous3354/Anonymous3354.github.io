@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2021-08-24T8:00:00+4:30
-title: Languages, DFAs, NFAs, Equivalence between Automata
+title: Automata & Language Theory Week 1: Languages, DFAs, NFAs, Equivalence between Automata
 thumbnail: /static_files/presentations/lec.jpg
 
 ---
