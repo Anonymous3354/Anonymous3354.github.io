@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2021-09-07Tx:xx:xx+7:30
-title: Homework #2
+title: Homework 2
 
 # optional 
 pdf: http://cs.gmu.edu/~evgenios/teaching/cs600/hw/hw2.pdf
