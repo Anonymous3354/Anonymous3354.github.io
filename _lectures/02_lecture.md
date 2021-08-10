@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2021-08-31T8:00:00+4:30
-title: Pumping Lemma, Pushdown Automata, NPDA and DPDA are not equivalent
+title: Automata & Language Theory Week 2: Pumping Lemma, Pushdown Automata, NPDA and DPDA are not equivalent
 thumbnail: /static_files/presentations/lec.jpg
 
 ---
