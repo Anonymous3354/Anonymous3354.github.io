@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2021-09-28T8:00:00+4:30
-title: First Leakage Attacks
+title: Karp Reductions	
 thumbnail: /static_files/presentations/lec.jpg
 
 ---
