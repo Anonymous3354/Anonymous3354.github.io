@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2021-09-07Tx:xx:xx+7:30
+date: 2021-09-07T8:23:00+4:30
 title: Homework 2
 
 # optional 
@@ -12,6 +12,6 @@ hide_from_announcments: false
 
 due_event: 
     type: due
-    date: 2021-09-21Tx:xx:xx+1:00
-    description: 'Homework #2 due'
+    date: 2021-09-21T8:23:00+4:30
+    description: 'Homework 2 due'
 ---
