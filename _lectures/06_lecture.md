@@ -6,5 +6,4 @@ thumbnail: /static_files/presentations/lec.jpg
 
 ---
 **Readings:**
-- [Access Pattern disclosure on Searchable Encryption: Ramification, Attack and Mitigation [NDSS’12]](https://www.ndss-symposium.org/wp-content/uploads/2017/09/06_1.pdf)
-- [Leakage-Abuse Attacks Against Searchable Encryption [CCS’15]](https://eprint.iacr.org/2016/718.pdf)
+- [Lecture Notes 1, Sections 2.6-3.2](http://cs.gmu.edu/~evgenios/teaching/cs600/automata.pdf)
