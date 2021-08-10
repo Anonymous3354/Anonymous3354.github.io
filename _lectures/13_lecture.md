@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2021-11-30T8:00:00+4:30
-title: Transforming Leakage + Designs for SSD 
+title: Randomized Time Complexity	 
 thumbnail: /static_files/presentations/lec.jpg
 
 ---
