@@ -13,5 +13,5 @@ hide_from_announcments: false
 due_event: 
     type: due
     date: 2021-10-07Tx:xx:xx+1:00
-    description: 'Assignment #1 due'
+    description: 'Homework #1 due'
 ---
