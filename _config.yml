@@ -49,6 +49,6 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "assignments"
+      type: ""
     values:
-      layout: "assignment"
+      layout: ""
