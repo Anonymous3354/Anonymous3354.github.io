@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2021-11-23T8:00:00+4:30
-title: A Systems Approach 
+title: Circuit Complexity.
 thumbnail: /static_files/presentations/lec.jpg
 
 ---
