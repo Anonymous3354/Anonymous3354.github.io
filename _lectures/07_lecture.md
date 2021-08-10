@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2021-10-05T8:00:00+4:30
-title: Forward Privacy
+title: More Karp reductions, NP-completeness
 thumbnail: /static_files/presentations/lec.jpg
 
 ---
