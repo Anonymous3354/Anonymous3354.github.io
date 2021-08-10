@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2021-09-14T8:00:00+4:30
-title: Turing machines
+title: Turing machines, Countable and uncountable sets, Diagonalization
 thumbnail: /static_files/presentations/lec.jpg
 
 ---
