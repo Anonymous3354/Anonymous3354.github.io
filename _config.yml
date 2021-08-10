@@ -1,6 +1,6 @@
 # Site settings
 course_name: Theory of Computation
-course_description: <p>This course will cover topics in computability theory and complexity theory. Specifically, we will cover automata theory, Turing machines, decidability, P and NP, polynomial-time reductions, circuit complexity, randomized computation and extraction, and proof systems. There is no required text; we will rely very heavily on the lecture notes found in the links below. These notes adapted from Prof. Jonathan Katz's and Prof. Dov Gordon's notes, which can be found under the "links" section on the right.</p>
+course_description: <p>This course will cover topics in computability theory and complexity theory. Specifically, we will cover automata theory, Turing machines, decidability, P and NP, polynomial-time reductions, circuit complexity, randomized computation and extraction, and proof systems. There is no required text; we will rely very heavily on the lecture notes provided by the instructor. These notes adapted from Prof. Jonathan Katz's and Prof. Dov Gordon's notes.</p>
 
 course_semester: "Fall 2021"
 
