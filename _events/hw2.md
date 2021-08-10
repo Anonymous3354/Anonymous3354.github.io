@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2021-08-24Tx:xx:xx+7:30
+date: 2021-09-07Tx:xx:xx+7:30
 title: Homework #2
 
 # optional 
