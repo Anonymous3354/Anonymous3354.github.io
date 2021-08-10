@@ -6,5 +6,4 @@ thumbnail: /static_files/presentations/lec.jpg
 
 ---
 **Readings:**
-- [Mitigating Leakage in Secure Cloud-Hosted Data Structures: Volume-Hiding for Multi-Maps via Hashing [CCS’19]](https://eprint.iacr.org/2019/1292.pdf)
-- [SSE and SSD: Page-Efficient Searchable Symmetric Encryption [CRYPTO’21]](https://eprint.iacr.org/2021/716.pdf)
+- [Lecture Notes 1, Sections 2.6-3.2](http://cs.gmu.edu/~evgenios/teaching/cs600/automata.pdf)
