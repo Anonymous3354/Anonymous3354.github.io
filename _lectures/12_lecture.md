@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2021-11-23T8:00:00+4:30
-title: Circuit Complexity.
+title: Randomized Time Complexity	
 thumbnail: /static_files/presentations/lec.jpg
 
 ---
