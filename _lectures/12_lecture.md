@@ -6,5 +6,4 @@ thumbnail: /static_files/presentations/lec.jpg
 
 ---
 **Readings:**
-- [DORY: An Encrypted Search System with Distributed Trust [OSDI’20]](https://www.usenix.org/system/files/osdi20-dauterman_dory.pdf)
-- [Pancake: Frequency Smoothing for Encrypted Data Stores [USENIX Sec’20]](https://www.usenix.org/system/files/sec20-grubbs.pdf)
+- [Lecture Notes 1, Sections 2.6-3.2](http://cs.gmu.edu/~evgenios/teaching/cs600/automata.pdf)
