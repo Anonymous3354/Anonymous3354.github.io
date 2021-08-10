@@ -12,6 +12,6 @@ hide_from_announcments: false
 
 due_event: 
     type: due
-    date: 2021-10-07Tx:xx:xx+1:00
+    date: 2021-09-07Tx:xx:xx+1:00
     description: 'Homework #1 due'
 ---
