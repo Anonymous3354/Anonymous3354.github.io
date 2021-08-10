@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2021-11-30T8:00:00+4:30
-title: Randomized Time Complexity	 
+title: TBD	 
 thumbnail: /static_files/presentations/lec.jpg
 
 ---
