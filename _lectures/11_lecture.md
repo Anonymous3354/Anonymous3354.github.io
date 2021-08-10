@@ -6,4 +6,4 @@ thumbnail: /static_files/presentations/lec.jpg
 
 ---
 **Readings:**
-- [Lower Bounds for Encrypted Multi-Maps and Searchable Encryption in the Leakage Cell Probe Model [CRYPTO’20]](https://eprint.iacr.org/2019/1132.pdf)
+- [Lecture Notes 1, Sections 2.6-3.2](http://cs.gmu.edu/~evgenios/teaching/cs600/automata.pdf)
