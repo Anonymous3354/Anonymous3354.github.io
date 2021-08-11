@@ -28,6 +28,9 @@ The two exams are worth 60% of the course grade: the better of the two exams wil
 
 ## Grading
 Homework: 30%
+
 Midterm: 25% or 35%
+
 Final: 35% or 25%
+
 Participation: 10%
