@@ -19,9 +19,7 @@ The material in this course is challenging, and I expect students to put the tim
 There will be 5 homework assignments, due every other week. Students are welcome to work in groups, but every student must write their solutions independently. Homeworks that appear overly similar will be considered to violate the honor code. Only a random subset of the problems will be graded on each assignment. Students are expected to do all of the problems anyway. We will review all of the problems in class, so that students can evaluate their own understanding of the un-graded problems, and seek help as needed.
 
 I encourage students to type their answers, both because they will be easier to read, and also because I believe it helps you clarify your own thinking. 
-
 [//]: < You can use this LaTex template file, if it is helpful to you. There are also command definitions that might be helpful to you here. (If you're using the template file, you will need to remove the comment where the preamble file is included.)>
-
 [This is a great LaTex reference](http://tug.ctan.org/info/lshort/english/lshort.pdf), with a list of useful symbols on page 75.
 
 ## Exams
