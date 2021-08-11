@@ -20,9 +20,9 @@ There will be 5 homework assignments, due every other week. Students are welcome
 
 I encourage students to type their answers, both because they will be easier to read, and also because I believe it helps you clarify your own thinking. 
 
-[//]: <> You can use this LaTex template file, if it is helpful to you. 
+[//]: < You can use this LaTex template file, if it is helpful to you. There are also command definitions that might be helpful to you here. (If you're using the template file, you will need to remove the comment where the preamble file is included.)>
 
-There are also command definitions that might be helpful to you here. (If you're using the template file, you will need to remove the comment where the preamble file is included.) This is a great LaTex reference, with a list of useful symbols on page 75.
+[This is a great LaTex reference](http://tug.ctan.org/info/lshort/english/lshort.pdf), with a list of useful symbols on page 75.
 
 ## Exams
 The two exams are worth 60% of the course grade: the better of the two exams will count for 35%, and the lesser of the two will count for 25%. All testing is closed book, and notes are not permitted. The two exams, including the final, each cover about a half of the semester. The final is not cumulative. I will not offer any makeup exams, so students should plan accordingly.
