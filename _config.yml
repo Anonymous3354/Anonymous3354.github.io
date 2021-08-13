@@ -4,7 +4,7 @@ course_description: <p>This course will cover topics in computability theory and
 
 course_semester: "Fall 2021"
 
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://cs.gmu.edu/~evgenios/classes/cs600" # the base hostname & protocol for your site
 
 schoolname: "George Mason University"
