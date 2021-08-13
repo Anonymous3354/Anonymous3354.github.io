@@ -4,7 +4,7 @@ date: 2021-08-24T8:23:00+4:30
 title: Homework 1
 
 # optional
-pdf: https://cs.gmu.edu/~evgenios
+pdf: http://cs.gmu.edu/~evgenios/classes/cs600/hw/hw2.pdf
 
 # optional
 # set it to true if you don't want this assignment to appear in the announcements section
