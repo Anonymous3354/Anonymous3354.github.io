@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2021-11-16T8:23:00+4:30
+date: 2021-11-16
 title: Homework 5
 
 # optional 
