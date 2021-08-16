@@ -1,6 +1,6 @@
 ---
 type: exam
-date: 2021-10-12Tx:xx:xx+7:30
+date: 2021-10-12
 description: Midterm Exam
 
 # optional
