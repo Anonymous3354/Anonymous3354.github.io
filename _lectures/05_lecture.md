@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2021-09-21T8:00:00+4:30
+date: 2021-09-21
 title: Mapping reductions, P and NP	
 thumbnail: /static_files/presentations/lec.jpg
 
