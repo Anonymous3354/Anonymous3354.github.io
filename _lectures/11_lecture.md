@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2021-11-16T8:00:00+4:30
+date: 2021-11-16
 title: Circuit Complexity
 thumbnail: /static_files/presentations/lec.jpg
 
