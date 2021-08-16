@@ -1,7 +1,7 @@
 ---
 type: raw_event
 name: Solutions of Midterm
-date: 2021-10-19Tx:xx:xx+7:30
+date: 2021-10-19
 description: Solutions of Midterm
 
 # optional
