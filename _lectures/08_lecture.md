@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2021-10-26T8:00:00+4:30
+date: 2021-10-26
 title: Co-NP, decision vs. search, Space Complexity
 thumbnail: /static_files/presentations/lec.jpg
 
